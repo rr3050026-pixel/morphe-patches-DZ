@@ -5,7 +5,7 @@ group = "app.morphe"
 patches {
     about {
         name = "Morphe Patches DZ"
-        description = "Patches for Morphe - النسخة الجزائرية 🇩🇿 100%"
+        description = "Patchs pour Morphe - Édition Algérienne 🇩🇿 100%"
         source = "git@github.com:rr3050026-pixel/morphe-patches-DZ.git"
         author = "rr3050026-pixel"
         contact = "https://github.com/rr3050026-pixel/morphe-patches-DZ"

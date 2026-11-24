@@ -1,49 +1,49 @@
 <div align="center">
 
-# 🇩🇿 Morphe Patches DZ | باتشات مورف - النسخة الجزائرية 🇩🇿
-### النسخة الجزائرية 100% المخصصة لتطبيقات يوتيوب ويوتيوب ميوزك وريديت
-#### تطوير وإشراف: rr3050026-pixel (الجزائر 🇩🇿)
+# 🇩🇿 Morphe Patches DZ | Édition Algérienne 100% 🇩🇿
+### Les patchs Morphe optimisés et personnalisés pour YouTube, YouTube Music et Reddit
+#### Développé et maintenu par : [rr3050026-pixel](https://github.com/rr3050026-pixel) (Algérie 🇩🇿)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-morphe--patches--DZ-006233?style=for-the-badge&logo=github)](https://github.com/rr3050026-pixel/morphe-patches-DZ)
 [![Version](https://img.shields.io/badge/Version-v2.3.0-D21034?style=for-the-badge)](https://github.com/rr3050026-pixel/morphe-patches-DZ/releases)
-[![Made in Algeria](https://img.shields.io/badge/Made%20in-Algeria%20%F0%9F%87%A9%F0%9F%87%BF-white?style=for-the-badge&labelColor=006233&color=D21034)](https://github.com/rr3050026-pixel/morphe-patches-DZ)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-gray?style=for-the-badge&logo=gnu)](LICENSE)
+[![Made in Algeria](https://img.shields.io/badge/Fabriqu%C3%A9%20en-Alg%C3%A9rie%20%F0%9F%87%A9%F0%9F%87%BF-white?style=for-the-badge&labelColor=006233&color=D21034)](https://github.com/rr3050026-pixel/morphe-patches-DZ)
+[![License: GPL v3](https://img.shields.io/badge/Licence-GPLv3-gray?style=for-the-badge&logo=gnu)](LICENSE)
 
 <br/>
 
 <p align="center">
-  <b>نسخة جزائرية أصيلة 100% مبنية ومخصصة لدعم المستخدمين في الجزائر</b><br>
-  تعريب شامل <code>ar-rDZ</code> • تحسين تدفق البيانات لشبكات الجيل الرابع والخامس • هوية جزائرية كاملة
+  <b>Édition 100% algérienne conçue pour offrir la meilleure expérience aux utilisateurs en Algérie</b><br>
+  Localisation complète <code>ar-rDZ</code> &amp; Français • Optimisation du flux réseau 4G/5G/Fibre • Identité visuelle DZ
 </p>
 
 ---
 
 </div>
 
-## 🇩🇿 حول المشروع (About)
+## 🇩🇿 À propos du projet
 
-**Morphe Patches DZ** هي النسخة الجزائرية الرسمية والمستنسخة من مشروع باتشات Morphe والمبنية أصلاً على أعمال ReVanced. تم تعديلها وتخصيصها بالكامل بنسبة **100%** لتلائم وتخدم المستخدمين في الجزائر 🇩🇿.
+**Morphe Patches DZ** est l'édition algérienne officielle de la suite de patchs Morphe (basée initialement sur les travaux de ReVanced). Ce projet a été adapté, personnalisé et traduit à **100%** pour répondre aux besoins et à l'identité des utilisateurs en Algérie 🇩🇿.
 
-### ✨ مميزات النسخة الجزائرية 100%:
-* 🇩🇿 **تعريب جزائري أصيل كامل (`ar-rDZ`):** ترجمة وتوطين شامل لجميع الواجهات والخيارات والإعدادات باللغة العربية مع لمسات جزائرية واضحة ومفهومة.
-* 🏷️ **هوية وعلامات تجارية جزائرية مخصصة:** أسماء تطبيقات افتراضية مخصصة للجزائر (YouTube DZ، YT Music DZ، Reddit DZ)، وشعارات متوافقة.
-* 📶 **تحسين الأداء لشبكات الجزائر:** دعم تخصيص البفر وجودة الفيديو لتوفير البيانات وضمان التشغيل السلس على شبكات Mobilis و Djezzy و Ooredoo و Algérie Télécom (ADSL / Fibre / 4G LTE).
-* 🛡️ **حظر كامل للإعلانات:** إزالة إعلانات الفيديو، إعلانات الشاشة الرئيسية، البانرات الدعائية، ومقاطع الفيديو الترويجية.
-* 🎵 **تشغيل في الخلفية ومحلياً:** استماع للموسيقى والفيديوهات في الخلفية أو عند قفل الشاشة مع دعم التنزيل المباشر دون قيود.
-* ⚡ **دعم SponsorBlock & Return YouTube Dislike:** تخطي المقاطع الدعائية داخل الفيديوهات تلقائياً وعرض إحصائيات عدم الإعجاب بدقة.
+### ✨ Fonctionnalités phares de l'édition algérienne :
+* 🇩🇿 **Traduction et localisation dédiées :** Prise en charge native de l'arabe algérien (`ar-rDZ`) et du français, avec une terminologie claire et adaptée.
+* 🏷️ **Identité et marques personnalisées DZ :** Noms d'applications par défaut personnalisés (YouTube DZ, YT Music DZ, Reddit DZ), icônes et styles exclusifs.
+* 📶 **Optimisation réseau pour l'Algérie :** Paramètres de mise en mémoire tampon (buffer) et gestion de la qualité vidéo adaptés aux réseaux mobiles et fixes locaux (Mobilis 4G/5G, Djezzy, Ooredoo, Algérie Télécom ADSL & Fibre).
+* 🛡️ **Blocage complet des publicités :** Suppression totale des annonces vidéo, bannières publicitaires et promotions dans le flux d'accueil.
+* 🎵 **Lecture en arrière-plan et écran éteint :** Écoute ininterrompue de musique et de podcasts avec support des téléchargements hors ligne directs.
+* ⚡ **Intégration SponsorBlock et Return YouTube Dislike :** Saut automatique des segments sponsorisés dans les vidéos et réaffichage du compteur de dislikes.
 
 ---
 
-## 📲 طريقة التثبيت والاستخدام
+## 📲 Guide d'installation et d'utilisation
 
-### 1. عبر تطبيق Morphe Manager:
-1. قم بفتح تطبيق **Morphe Manager** في هاتفك.
-2. توجه إلى **الإعدادات (Settings)** > **المصادر (Sources)**.
-3. قم بتغيير مصدر الباتشات (Patches source) إلى:
-   - **Repository:** `rr3050026-pixel/morphe-patches-DZ`
-4. اختر التطبيق الذي ترغب في تعديله (YouTube أو YouTube Music أو Reddit) وحدد الباتشات واضغط على **Patch** ثم ثبت التطبيق واستمتع بالنسخة الجزائرية!
+### 1. Via Morphe Manager (Recommandé) :
+1. Ouvrez l'application **Morphe Manager** sur votre appareil Android.
+2. Rendez-vous dans **Paramètres (Settings)** > **Sources**.
+3. Modifiez la source des patchs avec l'adresse du dépôt :
+   - **Organisation / Dépôt :** `rr3050026-pixel/morphe-patches-DZ`
+4. Sélectionnez l'application cible (YouTube, YouTube Music ou Reddit), choisissez vos patchs, puis cliquez sur **Patcher** et installez l'APK généré.
 
-### 2. عبر سطر الأوامر (CLI):
+### 2. Via l'interface en ligne de commande (CLI) :
 ```bash
 java -jar morphe-cli.jar patch \
   --patches patches-2.3.0.mpp \
@@ -53,7 +53,7 @@ java -jar morphe-cli.jar patch \
 
 ---
 
-## 🩹 قائمة الباتشات المتاحة (Patches List)
+## 🩹 Liste des patchs disponibles (Patches list)
 
 <!-- PATCHES_START -->
 > **[v2.3.0](https://github.com/rr3050026-pixel/morphe-patches-DZ/releases/tag/v2.3.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;212 patches total
@@ -322,26 +322,19 @@ java -jar morphe-cli.jar patch \
 
 <!-- PATCHES_END -->
 
-## Contributing
+## 🤝 Contribution
 
-We currently accept pull requests for fixes/improvements to YouTube, YT Music, and Reddit.
-If you have developed patches for other apps, you are encouraged to release your patches in a third party repository.
-See the [Patches template](https://github.com/morpheapp/morphe-patches-template) for more information.  
+Les contributions et suggestions pour améliorer la compatibilité avec les applications YouTube, YouTube Music et Reddit sont les bienvenues.  
+Consultez le guide [CONTRIBUTING.md](CONTRIBUTING.md) avant de soumettre une Pull Request.
 
-Before opening a pull request, read the [contribution guidelines](CONTRIBUTING.md).
+## 📜 Licence
 
-## 📜 License
-
-Morphe Patches are licensed under the [GNU General Public License v3.0](LICENSE), with additional conditions under GPLv3 Section 7:
-
-- **Attribution (7b):** Any use of this code, including derivative works, must preserve all original notices and disclaimers.
-- **Name & Branding Restrictions (7c & 7e):** Derivative works must use their own distinct branding. The **"Morphe"** name, logos, and trademarks may not be used for the branding or title of derivative works (e.g., names like *"Morphe Plus"*, *"Morphe Expanded"*, or *"Morphe UserXYZ"* are strictly prohibited).
-
-See the [LICENSE](LICENSE) file for full GPLv3 terms and the [NOTICE](NOTICE) file for full conditions of GPLv3 Section 7.
+Morphe Patches DZ est distribué sous licence [GNU General Public License v3.0](LICENSE), avec les conditions additionnelles de la section 7 de la GPLv3 (voir [NOTICE](NOTICE)).
 
 ---
 
-## 🇩🇿 تحيا الجزائر (Vive L'Algérie)
+## 🇩🇿 Vive l'Algérie ! (تحيا الجزائر)
 
-تم تطوير وتخصيص هذه النسخة خصيصاً للمجتمع الجزائري 🇩🇿 ولدعم كافة المستخدمين في ربوع الوطن.  
-لأي اقتراحات أو طلبات ميزات جديدة، لا تتردد في فتح [Issue](https://github.com/rr3050026-pixel/morphe-patches-DZ/issues) أو تقديم مساهمة عبر [Pull Request](https://github.com/rr3050026-pixel/morphe-patches-DZ/pulls).
+Cette édition a été spécialement conçue et optimisée pour la communauté algérienne 🇩🇿.  
+Pour signaler un bug ou proposer une nouvelle fonctionnalité, ouvrez une [Issue](https://github.com/rr3050026-pixel/morphe-patches-DZ/issues) ou soumettez une [Pull Request](https://github.com/rr3050026-pixel/morphe-patches-DZ/pulls).
+
