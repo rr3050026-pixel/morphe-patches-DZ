@@ -44,6 +44,7 @@ internal val localesYouTube = listOf(
     AppLocale("", ""), // Default English locale. Must be first.
     AppLocale("af-rZA", "af"),
     AppLocale("am-rET", "am"),
+    AppLocale("ar-rDZ", "ar-rDZ", false),
     AppLocale("ar-rSA", "ar"),
     AppLocale("as-rIN", "as"),
     AppLocale("az-rAZ", "az"),
@@ -126,6 +127,7 @@ internal val localesYouTube = listOf(
 
 internal val localesReddit = listOf(
     AppLocale("", ""), // Default English locale. Must be first.
+    AppLocale("ar-rDZ", "ar-rDZ", false),
     AppLocale("ar-rSA", "ar"),
     AppLocale("de-rDE", "de"),
     AppLocale("es-rES", "es"),

@@ -1,4 +1,13 @@
 {
+  "name": "morphe-patches-dz",
+  "version": "2.3.0",
+  "description": "باتشات مورف ديزاد - النسخة الجزائرية 100% 🇩🇿 (Morphe Patches DZ - 100% Algerian Edition)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rr3050026-pixel/morphe-patches-DZ.git"
+  },
+  "author": "rr3050026-pixel (الجزائر 🇩🇿)",
+  "license": "GPL-3.0",
   "devDependencies": {
     "@cleyrop-org/semantic-release-backmerge": "^6.2.0",
     "@MorpheApp/changelog": "git+https://github.com/MorpheApp/changelog.git#bundle",

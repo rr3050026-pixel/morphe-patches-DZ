@@ -13,7 +13,7 @@ import app.morphe.patcher.patch.stringOption
 import app.morphe.patches.reddit.misc.fix.signature.spoofSignaturePatch
 import app.morphe.patches.reddit.shared.Constants.COMPATIBILITY_REDDIT
 
-private const val APP_NAME = "Reddit Morphe"
+private const val APP_NAME = "Reddit DZ"
 
 @Suppress("unused")
 val customBrandingNamePatch = patch(
